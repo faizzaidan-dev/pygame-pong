@@ -1,4 +1,4 @@
 # pygame-pong
-A pong game made with python and pygame. 
+A source code of pong game I made with python and pygame. 
 
 Actually this pong is worser.
